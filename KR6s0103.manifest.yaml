@@ -1,0 +1,256 @@
+canonical_identifier: bkk:krp/KR6s0103/v1
+canonical_location: https://kanripo.org/bkk/KR6s0103/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 大明重刊三藏聖教目錄
+  identifiers:
+    alt_id:
+    - C106n1937
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/C/C106/C106n1937.xml
+    old_id: C106n1937
+  edition:
+    short: bkk
+editions:
+- short: 中華
+  label: 中華
+  source_xml_id: wit.orig
+- short: C
+assets:
+  parts:
+  - {seq: 0, filename: KR6s0103_000.yaml, hash: 'sha256:52dfa21a6a80e28ab05189a103eb6a439731107a6b8cc2a90b7b801a715cafae'}
+  - {seq: 1, filename: KR6s0103_001.yaml, hash: 'sha256:0469a00418526d4d1b2a3c94eb6ea8efb7b2942f7bd50907e9369d0c5c49c762'}
+  - {seq: 2, filename: KR6s0103_002.yaml, hash: 'sha256:5df049594a3e78426773a8ef23c5a515bef128f205e365837c7b7873e8c6e6e3'}
+  - {seq: 3, filename: KR6s0103_003.yaml, hash: 'sha256:35549adabe2f37b920cf25aed0d8c3cb5e9250afe8f18b32314c94760ab03ede'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6s0103_001.markers.yaml, hash: 'sha256:fbe1fef74f38984a538b5a0e143a04fc03c769038befebdd1de6533f6b70df71'}
+  - {seq: 2, role: markers, filename: assets/KR6s0103_002.markers.yaml, hash: 'sha256:ad2db7ca3cd61061659fb7f6a4cd36e5569a094540ce4639b4bd4a1bf24542a5'}
+  - {seq: 3, role: markers, filename: assets/KR6s0103_003.markers.yaml, hash: 'sha256:057a20bcec59feec843d69a198fc2e1747cb9aed209558b5c2bb74854464cd46'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6s0103_C_001-juan-start
+    span:
+    - body
+    - 0
+    - 5751
+  label: 大明重刊三藏聖教目錄卷上
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0103_C_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 大乘經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0103_C_001-mulu-2
+    span:
+    - body
+    - 3
+    - 3
+  label: 般若部
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0103_C_001-mulu-3
+    span:
+    - body
+    - 321
+    - 321
+  label: 寶積部
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0103_C_001-mulu-4
+    span:
+    - body
+    - 678
+    - 678
+  label: 大集部
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0103_C_001-mulu-5
+    span:
+    - body
+    - 942
+    - 942
+  label: 華嚴部
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0103_C_001-mulu-6
+    span:
+    - body
+    - 1270
+    - 1270
+  label: 涅槃部
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0103_C_001-mulu-7
+    span:
+    - body
+    - 1353
+    - 1353
+  label: 五大部外重譯經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0103_C_001-mulu-8
+    span:
+    - body
+    - 4269
+    - 4269
+  label: 五大部外單譯經
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0103_C_002-juan-start
+    span:
+    - body
+    - 0
+    - 5914
+  label: 大明重刊三藏聖教目錄卷中
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0103_C_002-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 小乘經
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0103_C_002-mulu-2
+    span:
+    - body
+    - 3
+    - 3
+  label: 阿含部
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0103_C_002-mulu-3
+    span:
+    - body
+    - 1266
+    - 1266
+  label: 單譯經
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0103_C_002-mulu-4
+    span:
+    - body
+    - 1985
+    - 1985
+  label: 宋元入藏諸大小乘經
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6s0103_C_003-juan-start
+    span:
+    - body
+    - 0
+    - 6098
+  label: 大明重刊三藏聖教目錄卷下
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6s0103_C_003-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 西土聖賢撰集
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6s0103_C_003-mulu-2
+    span:
+    - body
+    - 1905
+    - 1905
+  label: 大乘律
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6s0103_C_003-mulu-3
+    span:
+    - body
+    - 2134
+    - 2134
+  label: 小乘律
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6s0103_C_003-mulu-4
+    span:
+    - body
+    - 2868
+    - 2868
+  label: 大乘論
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6s0103_C_003-mulu-5
+    span:
+    - body
+    - 3779
+    - 3779
+  label: 小乘論
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6s0103_C_003-mulu-6
+    span:
+    - body
+    - 4253
+    - 4253
+  label: 續入藏諸論
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6s0103_C_003-mulu-7
+    span:
+    - body
+    - 4521
+    - 4521
+  label: 此方撰述
+  type: mulu
+  level: 1
+hash: sha256:bbf7c0fa2de0443870d0054d2b67e3c6a8e4a5b0f9c506b152c483bcb8c74ee5
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6s0103/c/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大明重刊三藏聖教目錄
+  edition:
+    short: c
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/C/C106/C106n1937.xml
+    old_id: C106n1937
+hash: sha256:52dfa21a6a80e28ab05189a103eb6a439731107a6b8cc2a90b7b801a715cafae
